@@ -50,4 +50,4 @@ public class PrimeExample4 {
        return true;  
    }  
 }  
-   
+    Modified file 
