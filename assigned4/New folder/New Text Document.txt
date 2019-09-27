@@ -44,4 +44,3 @@ public class DialogExample {
     {  
         new DialogExample();  
     }  
-}  changes
