@@ -4,7 +4,7 @@ public class ItemListenerExample implements ItemListener{
     Checkbox checkBox1,checkBox2;  
     Label label;  
     ItemListenerExample(){    
-        Frame f= new Frame("CheckBox Example");    
+        Frame f= new Frame("CheckBox Example");   poll scm 
         label = new Label();            
         label.setAlignment(Label.CENTER);    
         label.setSize(400,100);    
